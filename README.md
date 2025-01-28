@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @Foyez897
 - 👀 interested in system dev
-- 🌱 currently learning phy, c, assembly, HTML, CSS, js, RDBMS, my SQL
+- 🌱 currently learning phy, c, c++, assembly, HTML, CSS, js, RDBMS, my SQL
 - 💞️ looking to collaborate on ...
 - 📫 How to reach me- contact via email
 
