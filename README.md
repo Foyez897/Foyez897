@@ -11,7 +11,8 @@ Scikit-learn | TensorFlow | Keras | XGBoost
 	•	Anything that helps us learn together!
 - 📬 Reach me via email: foyezahammed897@gmail.com
 
-- ⚡ Fun fact: deep thought
+- ⚡ Fun Fact:
+I often think, “Can I train myself like a machine learning model—with enough data, feedback, and fine-tuning?” 🤔💡
 
 <!---
 Foyez897/Foyez897 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
