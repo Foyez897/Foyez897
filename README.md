@@ -1,18 +1,18 @@
-- 👋 Hi there, I’m @Foyez897
-- 🎓 I’m a passionate student exploring the world of Machine Learning and AI
-- 🧠 Currently learning:
-Python | C | Assembly | HTML/CSS/JS | RDBMS | MySQL
-Data Structures & Algorithms | NumPy | Pandas | Matplotlib
-Scikit-learn | TensorFlow | Keras | XGBoost
-- 💡 I’m always curious about how intelligent systems learn, adapt, and evolve
--  🤝 Looking to collaborate on:
-	•	Beginner-friendly ML projects
-	•	Data analysis or visualization tasks
-	•	Anything that helps us learn together!
-- 📬 Reach me via email: foyezahammed897@gmail.com
+- 👋 Hi, I’m @Foyez897
+- 🎓 Final-year Computer Science with AI student at UWE Bristol (graduating July 2027), based in London.
+- 🧠 **Working on now**
+Final-year project: an LLM agent for humanitarian organisations that knows when its answers
+can be trusted. It runs a local model with Ollama, answers from public policy documents with
+sources, and passes uncertain or high-risk questions to a person, using a Bayesian trust
+score per topic and semantic-entropy checks.
 
-- ⚡ Fun Fact:
-I often think, “Can I train myself like a machine learning model—with enough data, feedback, and fine-tuning?” 🤔💡
+- 💡 **Recent work**
+British Red Cross placement: built Power BI dashboards for youth engagement reporting and a
+RAG-based Copilot Studio assistant for staff.
+
+**Tools:** Python · SQL · Flask · Django · scikit-learn · XGBoost · pandas · Power BI · Ollama · Git
+
+- 📬 Reach me via email: foyezahammed897@gmail.com
 
 <!---
 Foyez897/Foyez897 is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
